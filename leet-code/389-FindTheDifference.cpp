@@ -1,3 +1,6 @@
+// Problem : https://leetcode.com/problems/find-the-difference/
+// Author  : Karthik Murugesan (github: @karthikmuru)
+
 class Solution {
 public:
     char findTheDifference(string s, string t) {
