@@ -1,3 +1,6 @@
+// Problem : https://leetcode.com/problems/4sum-ii/
+// Author  : Karthik Murugesan (github: @karthikmuru)
+
 class Solution {
 public:
     int fourSumCount(vector<int>& A, vector<int>& B, vector<int>& C, vector<int>& D) {
