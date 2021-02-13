@@ -1,3 +1,6 @@
+// Problem : https://leetcode.com/problems/single-number-iii/
+// Author  : Karthik Murugesan (github: @karthikmuru)
+
 class Solution {
 public:
     vector<int> singleNumber(vector<int>& nums) {
